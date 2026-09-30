@@ -1,0 +1,6 @@
+{
+  "name": "隊伍分流管理教案 - 亞馬遜國家山岳協會",
+  "description": "隊伍分流管理教案：拆隊不是目的，管理才是目的。解析隊伍分流思考模型、現場幹部權責與山下留守雙層安全管理架構。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
